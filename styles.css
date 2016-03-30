@@ -1,0 +1,65 @@
+.bars{
+  display:inline-block;
+}
+.numbers{
+}
+
+.bar-2000{
+  display: inline-block;
+  width:40px;
+  height:92px;
+  background-color: black;
+}
+
+.bar-2001{
+  display: inline-block;
+  width:40px;
+  height:90px;
+  background-color: black;
+}
+
+.bar-2002{
+  display: inline-block;
+  width:40px;
+  height:87px;
+  background-color: black;
+}
+
+.bar-2003{
+  display: inline-block;
+  width:40px;
+  height:86px;
+  background-color: black;
+}
+
+.bar-2004{
+  display: inline-block;
+  width:40px;
+  height:90px;
+  background-color: black;
+}
+
+
+.number{
+  text-align: center;
+  display: inline-block;
+  width:40px;
+}
+
+/*---------------------------------------------------------------------------SVG*/
+
+svg{
+  border:solid black thin;
+  width:80%;
+  margin:0 auto;
+  height:20em;
+}
+
+circle{
+  fill:black;
+}
+
+line{
+  stroke-width:2px;
+  stroke:black;
+}
